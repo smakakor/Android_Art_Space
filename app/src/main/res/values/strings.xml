@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">LR_2_ShakirovAI</string>
+
+    <string name="motherlandCalls">Родина-мать зовёт!</string>
+    <string name="volgograd">Волгоград, 1967</string>
+
+    <string name="bronzeHorseman">Медный всадник</string>
+    <string name="saintPetersburg">Санкт-Петербург, 1782</string>
+
+    <string name="workerAndKolhoz">Рабочий и колхозница</string>
+    <string name="moscow1937">Москва, 1937</string>
+
+    <string name="mininAndPozharsky">Памятник Минину и Пожарскому</string>
+    <string name="moscow1818">Москва, 1818</string>
+
+    <string name="peterTheGreat">Памятник Петру I</string>
+    <string name="moscow1997">Москва, 1997</string>
+
 </resources>
